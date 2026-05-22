@@ -1,5 +1,5 @@
 ### ⚠️ This is a legacy version of Hydrogen. See the latest available at https://github.com/Shopify/hydrogen ⚠️
-
+From Ryota Oshima
 ---
 
 Hydrogen is a **React-based framework** for building dynamic, **Shopify-powered** custom storefronts.
